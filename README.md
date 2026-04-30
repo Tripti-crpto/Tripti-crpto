@@ -1,6 +1,6 @@
 # Hi there, I'm Tripti Mishra 👋
 
-🎓 MCA Student | 📊 Aspiring Data Analyst | 💻 SQL | Python | Power BI | Excel | Tableau
+🎓 MCA Student | 📊 Data Analyst | 💻 SQL | Python | Power BI | Excel | Tableau
 
 ---
 
