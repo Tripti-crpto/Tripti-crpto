@@ -89,8 +89,8 @@
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/tripti-mishra-4a68881ba/
-* Email: Your Email Address
-* GitHub: Your GitHub Profile Link
+* Email: mishratripti64@gmail.com
+* GitHub: https://github.com/Tripti-crpto
 
 ---
 
