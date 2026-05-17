@@ -36,6 +36,7 @@
 * Statistics
 * Dashboard Development
 * Business Intelligence
+* Claude 101
 
 ---
 
