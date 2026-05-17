@@ -36,7 +36,6 @@
 * Statistics
 * Dashboard Development
 * Business Intelligence
-* Claude 101
 
 ---
 
@@ -84,6 +83,7 @@
 * SQL
 * Python Programming
 * Excel for Business
+* Claude 101
 
 ---
 
